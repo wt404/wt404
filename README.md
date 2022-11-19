@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @jasonlerit
+- 👋 Hi, I’m Jason
 - 👀 I’m interested in tech
