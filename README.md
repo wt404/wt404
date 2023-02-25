@@ -5,9 +5,7 @@
   <tr>
     <th align="center">
       <img width="441" height="1" />
-      <p>
-        PROGRAMMING LANGUAGES
-      </p>
+      <p>PROGRAMMING LANGUAGES</p>
     </th>
     <th align="center">
       <img width="441" height="1" />
@@ -39,9 +37,7 @@
   <tr>
     <th align="center">
       <img width="441" height="1" />
-      <p>
-        BACKEND
-      </p>
+      <p>BACKEND</p>
     </th>
     <th align="center">
       <img width="441" height="1" />
